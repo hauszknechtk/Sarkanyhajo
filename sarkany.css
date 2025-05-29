@@ -43,6 +43,8 @@ p{
   border-radius: 25px;
   overflow: hidden;
   box-shadow: 10px 10px 10px gray;  
+  border: 2px solid darkblue;
+  font-style: italic;
 }
 
 .kepkeret img{
