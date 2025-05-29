@@ -20,6 +20,11 @@ h1{
 	text-shadow: 1px 1px white;
 }
 
+h2{color: indigo;
+	font-variant: small-caps;
+	text-shadow: 1px 1px white;
+}
+
 p{
   text-indent: 35px;
   text-align: justify;
